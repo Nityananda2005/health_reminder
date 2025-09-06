@@ -99,7 +99,7 @@ function App() {
 
   return (
     <div
-      className="relative min-h-screen bg-[url('health.jpg')] bg-cover bg-center flex items-center justify-center"
+      className="relative min-h-screen bg-[url('/health.jpg')] bg-cover bg-center flex items-center justify-center"
     >
       {/* Blur Overlay */}
       <div className="absolute inset-0 bg-black/40 backdrop-blur-xs"></div>
