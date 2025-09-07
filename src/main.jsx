@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import Footer from './footer.jsx'
 import About from './About.jsx'
-import Tips from './tips.jsx'
+import Tips from './Tips.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
